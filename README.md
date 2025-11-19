@@ -1,5 +1,5 @@
 
-### <div align="center">👋 Hi, I'm Jackline Kaunda a Backend Software Engineer with 5 years of Experience </div>
+### <div align="center">👋 Hi, I'm Jackline Kaunda, a Backend Software Engineer with 5 years of Experience </div>
 
 
 - 🌱 I am passionate about **programming, solving problems, and continuous learning of new techniques and technologies**
@@ -26,19 +26,25 @@
   
 - **Soft Skills:** Communication, Problem-Solving, Autonomy  
 
-<br/> 
+<br/>
 
-### 🎤 Talks & Presentations  
+### 🎤 Talks & Blogs
+
 I enjoy sharing knowledge about **Elixir, backend engineering, distributed systems, and software development best practices**. Here are some of my talks:  
 
  **1. Scaling Applications with Elixir & OTP**  
 📍 *Podii Tech Talk* – [Watch here](https://www.youtube.com/watch?v=BupvKWMNt6A&t=445s&ab_channel=Podii)  
 - Discussed how to build **highly scalable** and **fault-tolerant** applications using **OTP**.  
-- Explored real-world examples of Elixir in production.  
+- Explored real-world examples of Elixir in production.
+- Here is the link to blog post - https://dev.to/jackline_kaunda/phoenix-liveview-bringing-real-time-magic-to-the-web-4glo
 
  **2. Distributed Systems in Elixir**  
 📍 *ElixirConf Africa* – [Watch here](https://www.youtube.com/watch?v=uhkMdlnp5xE&ab_channel=ElixirConfAfrica)  
-- Covered **process supervision, fault tolerance, and message passing** in Elixir.  
+- Covered **process supervision, fault tolerance, and message passing** in Elixir.
+
+**3. Things I Wish I Knew Before Getting Into Tech**
+📍 *Arm Developer Program*  - [Things I Wish I Knew Before Getting Into Tech](https://www.linkedin.com/pulse/things-i-wish-knew-before-getting-tech-jackline-kaunda-8jjtf/)
+
 
 <br/> 
 
