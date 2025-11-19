@@ -2,7 +2,7 @@
 ### <div align="center">👋 Hi, I'm Jackline Kaunda a Backend Software Engineer with 5 years of Experience </div>
 
 
-- 🌱 I am passionate about **functional programming, solving problems, and continuous learning of new techniques and technologies**
+- 🌱 I am passionate about **programming, solving problems, and continuous learning of new techniques and technologies**
   
 - 🍀I value great teamwork and collaboration
 
@@ -16,9 +16,9 @@
 
 ### 👨‍💻 My Skill Set  
 
-- **Languages & Frameworks:** Elixir, Erlang, Phoenix, Phoenix LiveView, OTP
+- **Languages & Frameworks:** Elixir, Erlang, Phoenix, Phoenix LiveView, OTP, Javascript
     
-- **Databases:** PostgreSQL, Ecto
+- **Databases:** PostgreSQL, Ecto, MySQL
   
 - **Infrastructure & Tools:** Oban, AWS, Heroku, CI/CD
   
